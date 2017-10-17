@@ -1,0 +1,19 @@
+* >Natural Source Header 000000
+* :Mode R
+* :CP
+* :LineIncrement 10
+* <Natural Source Header
+define data 
+local 
+1 #test (a50) 
+end-define 
+* 
+#test := 'Lib. MMUE' 
+* 
+write '=' #test
+*
+write 'hallo'
+* 
+write *time
+* 
+end 
