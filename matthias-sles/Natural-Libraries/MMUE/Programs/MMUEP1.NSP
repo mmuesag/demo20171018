@@ -13,6 +13,8 @@ end-define
 write '=' #test
 *
 write 'hallo'
+*
+write 'mit feature1'
 * 
 write *time
 * 
